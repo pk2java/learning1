@@ -1,3 +1,3 @@
 # learning1
 
-learning project 1.
+learning project 1$
